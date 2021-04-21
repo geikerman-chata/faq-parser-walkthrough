@@ -13,5 +13,5 @@ If you're inside of a virtual enviroment, register venv to ipykernel in order fo
 
 Launch notebook:
 
-`jupyter lab faq-parser-walkthrough.ipynb`
+`jupyter lab faq-walkthrough.ipynb`
 
